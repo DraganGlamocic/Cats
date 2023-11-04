@@ -12,5 +12,7 @@ public class Main {
         strayCat.name = "Billy";
         strayCat.meow();
         strayCat.age = 5;
+
+        System.out.println("The number of cats in your house is now: " + Cat.getCatCount());
     }
 }
