@@ -53,24 +53,5 @@ public class Main {
         for (Flyer x : f) {
             x.fly();
         }
-
-//        c.fetch();
-
-//        myCat.name = "Willy";
-//        myCat.meow();
-//        myCat.age = 3;
-//        myCat.loseLife();
-//        System.out.println("I have " + myCat.livesRemaining + " lives left. \n");
-//
-//        Cat strayCat = new Cat();
-//        strayCat.name = "Billy";
-//        strayCat.meow();
-//        strayCat.age = 5;
-//        System.out.println("I have " + strayCat.livesRemaining + " lives left.");
-//        System.out.println();
-//
-//        System.out.println("The number of cats in your house is now: " + Cat.getCatCount());
-//        System.out.println();
-
     }
 }
